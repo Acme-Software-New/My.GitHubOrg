@@ -6,7 +6,7 @@ on:
     - cron: "0 1 * * *"
 
 env:
-  ORGANIZATION: "JediSchools"
+  ORGANIZATION: "Acme-Software-New"
   SCANNER_APP_ID: 1241554
   SCANNER_INSTALLATION_ID: 65879650
   LOCAL_APP_ID: 1241561

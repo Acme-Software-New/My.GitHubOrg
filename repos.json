@@ -109,7 +109,7 @@
 			"triage": false,
 			"pull": false
 		},
-		"score": 698,
+		"score": 693,
 		"_InnerSourceMetadata": {
 			"participation": [
 				0,
@@ -155,8 +155,8 @@
 				0,
 				0,
 				0,
-				0,
-				8,
+				4,
+				4,
 				1,
 				0,
 				0,
@@ -169,7 +169,7 @@
 				"test",
 				"public"
 			],
-			"score": 698
+			"score": 693
 		}
 	},
 	{
@@ -281,7 +281,7 @@
 			"triage": false,
 			"pull": false
 		},
-		"score": 705,
+		"score": 700,
 		"_InnerSourceMetadata": {
 			"participation": [
 				0,
@@ -340,7 +340,7 @@
 			"topics": [
 				"public"
 			],
-			"score": 705
+			"score": 700
 		}
 	},
 	{
@@ -460,7 +460,7 @@
 			"triage": false,
 			"pull": false
 		},
-		"score": 715,
+		"score": 710,
 		"_InnerSourceMetadata": {
 			"participation": [
 				0,
@@ -521,7 +521,7 @@
 				"topic-new",
 				"public"
 			],
-			"score": 715
+			"score": 710
 		}
 	},
 	{
@@ -633,7 +633,7 @@
 			"triage": false,
 			"pull": false
 		},
-		"score": 729,
+		"score": 724,
 		"_InnerSourceMetadata": {
 			"participation": [
 				0,
@@ -692,7 +692,7 @@
 			"topics": [
 				"public"
 			],
-			"score": 729
+			"score": 724
 		}
 	}
 ]

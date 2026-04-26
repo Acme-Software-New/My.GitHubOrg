@@ -114,7 +114,7 @@
 		"score": -50,
 		"_InnerSourceMetadata": {
 			"participation": [
-				4,
+				0,
 				1,
 				0,
 				0,
@@ -466,11 +466,11 @@
 			"triage": false,
 			"pull": false
 		},
-		"score": -49,
+		"score": -50,
 		"_InnerSourceMetadata": {
 			"participation": [
-				8,
-				6,
+				14,
+				0,
 				0,
 				0,
 				0,
@@ -527,7 +527,7 @@
 				"topic-new",
 				"public"
 			],
-			"score": -49
+			"score": -50
 		}
 	},
 	{
